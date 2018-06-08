@@ -1,0 +1,31 @@
+{
+  "particles":{
+    "number":{
+      "value":80,
+      "density":{
+        "enable":true,
+        "value_area":800
+      }
+    },
+    "color":{
+      "value":"#ffffff"
+    },
+    "shape":{
+      "type":{
+        "width":0,
+        "color": "#000000"
+      },
+      "polygon":{
+        "nb_sides":5
+      }
+    },
+    "size":{
+      "value":5,
+      "random":true,
+      "anim":{
+        "enable":false,
+        "speed":80
+      }
+    }
+  }
+}
